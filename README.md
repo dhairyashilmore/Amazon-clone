@@ -30,7 +30,3 @@ It helps beginners practice web design, layouts, and responsive UI techniques. :
 
 > ⚠️ Note: This is purely a visual clone — **no functional cart, search, or backend logic**.
 
----
-
-## 📁 Repository Structure
-
