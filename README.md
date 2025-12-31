@@ -5,12 +5,6 @@ This project replicates the look and feel of Amazon’s homepage with a search b
 
 ---
 
-## 🚀 Live Preview
-
-(If deployed, add your Netlify/Vercel or GitHub Pages link here.)
-
----
-
 ## 🧠 About the Project
 
 This project is a **static web application** that emulates Amazon’s homepage interface.  
